@@ -1,4 +1,6 @@
-
+<div>
+<img align="right" width="20%" src="https://i.redd.it/ovzljl6blr481.jpg" alt="banner" />
+</a>
 
 ```shell
  > 𝚗𝚎𝚘𝚏𝚎𝚝𝚌𝚑 
@@ -27,10 +29,6 @@ CesarCHL@github
 <div>
 <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=226wgyhm5q44mg5fhvgybkdca&redirect=true">
 <img width="30%" align="left" src="https://spotify-github-profile.kittinanx.com/api/view?uid=CesarCHLcover_image=true&theme=natemoo-re&bar_color=99c1f1&bar_color_cover=true" />
-</a>
-
-<a href="https://www.youtube.com/watch?v=abxX7P1J8I4">
-<img width="10%" align="right" src="https://github.com/VCAngel/VCAngel/assets/42756104/ddab01c4-602d-4bbb-a13f-5a59087755c5" alt="phrog" />
 </a>
 
 </div>
