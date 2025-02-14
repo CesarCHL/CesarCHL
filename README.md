@@ -16,7 +16,7 @@ CesarCHL@github
 𝙻𝚘𝚌𝚊𝚝𝚒𝚘𝚗: 𝙲𝚑𝚒𝚑𝚞𝚊𝚑𝚞𝚊, 𝙼𝚎𝚡𝚒𝚌𝚘
 𝙾𝚂: Linux
 𝚂𝚔𝚒𝚕𝚕𝚜: [𝙿𝚢𝚝𝚑𝚘𝚗, JS]
-𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐: [React, Java, Node, TailwindCSS]
+𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐: [React, Java, Node, TailwindCSS, SQL]
 𝙸𝚗𝚝𝚎𝚛𝚎𝚜𝚝𝚜: [AI, Linux, Sports, Videogames, Hiking, Camping]
 𝚂𝚝𝚊𝚝𝚞𝚜: viva el fulbo
 ```
