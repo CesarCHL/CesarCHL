@@ -1,0 +1,14 @@
+IDEAS 2D
+- Hacer una animacion sencilla que sea como agua moviendose
+- Dentro del bloque de agua, que haya un nemo moviendose 
+alrededor del agua.
+- Dentro del bloque de agua va a ir la informacion sobre mis proyectos,
+hobbies
+- Poner tambien un patito flotando como referencia a Duck
+- Poner una anemona en el centro o a un lado 
+
+IDEAS 3D
+
+- Que naje nemo nadando desde arriba del mar hacia una anemona,
+que entre a la anemona y que ya ahi adentro se muestre toda la info.
+
